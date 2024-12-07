@@ -135,5 +135,4 @@
       <artifactId>beam-sdks-java-test-utils</artifactId>
       <version>2.56.0</version>
     </dependency>
-
 </project>
