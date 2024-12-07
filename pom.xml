@@ -134,7 +134,7 @@
   <repositories>
     <repository>
         <id>central</id>
-        <url>https://repo.maven.apache.org/maven2</url>
+        <url>https://mvnrepository.com/artifact/org.apache.beam/beam-sdks-java-test-utils</url>
         <releases>
             <enabled>true</enabled>
         </releases>
