@@ -130,12 +130,11 @@
       <version>${beam-version}</version>
       <scope>test</scope>
     </dependency>
-  </dependencies>
-<!-- https://mvnrepository.com/artifact/org.apache.beam/beam-sdks-java-test-utils -->
-<dependency>
-    <groupId>org.apache.beam</groupId>
-    <artifactId>beam-sdks-java-test-utils</artifactId>
-    <version>2.56.0</version>
-</dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.beam/beam-sdks-java-test-utils -->
+    <dependency>
+      <groupId>org.apache.beam</groupId>
+      <artifactId>beam-sdks-java-test-utils</artifactId>
+      <version>2.56.0</version>
+    </dependency>
 
 </project>
