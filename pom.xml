@@ -126,9 +126,8 @@
     </dependency>
     <dependency>
       <groupId>org.apache.beam</groupId>
-      <artifactId>beam-sdks-java-testing</artifactId>
-      <version>${beam-version}</version>
-      <scope>test</scope>
+      <artifactId>beam-sdks-java-testing-expansion-service</artifactId>
+      <version>2.38.0</version>
     </dependency>
     <dependency>
       <groupId>org.apache.beam</groupId>
@@ -136,13 +135,4 @@
       <version>2.38.0</version>
     </dependency>
   </dependencies>
-  <repositories>
-    <repository>
-        <id>apache-snapshots</id>
-        <url>https://repo1.maven.org/maven2/org/apache/beam/beam-sdks-java-testing-expansion-service/2.38.0/</url>
-        <snapshots>
-            <enabled>true</enabled>
-        </snapshots>
-    </repository>
-</repositories>
 </project>
